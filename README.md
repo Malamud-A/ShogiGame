@@ -32,6 +32,8 @@ Basic fucntions are:
 * Sequelize ORM | Type ORM (?)
 * Socket.io
 * AJV validation (?)
+* Tests
+    * Mocha + Chai (?)
 
 ### Dev-ops tools
 * Docker
