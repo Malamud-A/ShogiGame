@@ -18,10 +18,7 @@ Basic fucntions are:
 * Webpack config
     * HMR
 * ESlint
-* React app
-    * Redux | MobX | RxJS (?)
-    * Socket.io
-    * Next.js (?)
+* Swelte
 * Tests
     * Jest + Enzyme (?)
 
