@@ -15,6 +15,7 @@ Basic fucntions are:
 * Nginx
 
 ### Front-end
+* Electron
 * Webpack config
     * HMR
 * ESlint
